@@ -13,3 +13,10 @@ release.properties
 *.war
 *.ear
 hs_err_pid*
+
+
+# Eclipse
+.settings/
+.classpath
+.project
+bin/
